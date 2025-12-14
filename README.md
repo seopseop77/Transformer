@@ -13,7 +13,7 @@
 ├── temp/
 │   └── ProcessingData.ipynb    # AI Hub 데이터 가공 및 분할 스크립트
 ├── data/
-│   ├── raw/                    # (중요) 가공된 학습 데이터가 위치해야 하는 곳
+│   ├── raw/                    # 가공된 학습 데이터가 위치해야 하는 곳
 │   │   ├── train.en
 │   │   ├── train.ko
 │   │   ├── test.en
